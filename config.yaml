@@ -29,7 +29,7 @@ menu:
 
 
 params:
-  description: "R · Python · Statistics · Econmics · Investment · Life"
+  description: "R · Python · Bio-Statistics · Econmics · Investment · Life"
   footer: "&copy; Cyiufong 2021 | [Github](https://github.com/Chunyfong)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
